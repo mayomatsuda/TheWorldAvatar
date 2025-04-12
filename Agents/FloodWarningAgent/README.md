@@ -132,6 +132,9 @@ Markus Hofmeister (mh807@cam.ac.uk), February 2023
 [Stack Manager]: https://github.com/TheWorldAvatar/stack/tree/main/stack-manager
 [TheWorldAvatar]: https://github.com/cambridge-cares/TheWorldAvatar
 
+[fakelink]: https://github.com/cambridge-cares/TheWorldAdvatar
+[fakelinkignored]: https://docs.unity3d.com/sdfajkfiolkjsdf
+
 <!-- Files -->
 [Docker compose file]: docker-compose.yml
 [Dockerfile]: Dockerfile
